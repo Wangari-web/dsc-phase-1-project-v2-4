@@ -1,4 +1,4 @@
-Phase 1 Project: Microsoft Movie Studio Exploration and Data Analysis
+## Phase 1 Project: Microsoft Movie Studio Exploration and Data Analysis
 
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies.
@@ -11,7 +11,9 @@ Agenda
 
 
 Business Problem
- Microsoft has observed the trend of major companies venturing into original video content 
+
+
+Microsoft has observed the trend of major companies venturing into original video content 
 creation and is keen to join the fray by establishing its own movie studio. However, lacking 
 experience in the realm of filmmaking, Microsoft aims to leverage insights gleaned from 
 analyzing the top-performing movies of the past decade to chart a course to success.
@@ -32,15 +34,16 @@ quality and appeal of the movie
 
 Data Sets and Analysis Method
 
-![Data Sets and Analysis Method](image.png)
+![Data Sets and Analysis Method](images/avg number of reviews.png)
 
 Top Movie Directors
 
-![Top Movie Directors](image-1.png)
+![Top Movie Directors](images/top movie directors.png)
 
 Top Movie Actors
 
-![Top Movie Actors](image-2.png)
+![Top Movie Actors](images/top movie actors.png
+)
 
 
 Conclusions
