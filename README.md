@@ -34,16 +34,15 @@ quality and appeal of the movie
 
 Data Sets and Analysis Method
 
-![Data Sets and Analysis Method](images/avg number of reviews.png)
+![Data Sets and Analysis Method](images/avg_number_of_reviews.png)
 
 Top Movie Directors
 
-![Top Movie Directors](images/top movie directors.png)
+![Top Movie Directors](images/top_movie_directors.png)
 
 Top Movie Actors
 
-![Top Movie Actors](images/top movie actors.png
-)
+![Top Movie Actors](images/top_movie_actors.png)
 
 
 Conclusions
